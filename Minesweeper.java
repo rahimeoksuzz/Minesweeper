@@ -1,4 +1,3 @@
-package Minesweeper;
 import java.util.Random;
 
 /*
